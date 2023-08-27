@@ -1,0 +1,140 @@
+html{
+   background-color: #F5EFE7;
+}
+#me{
+   width: 300px;
+   height: 300px;
+   position: relative;
+   left: 37%;
+   top: 30px;
+   border-radius: 8%;
+   padding: 10px;
+   background-color: #4F709C;
+}
+.Summary{
+   background-color: #4F709C;
+   width: 310px;
+   height: 200px;
+   border-radius: 15%;
+   position: relative;
+   top: 150px;
+   left: 100px;
+
+}
+.Summary .baslik{
+   position: absolute;
+   left: 95px;
+   top: 5px;
+   color: #D8C4B6
+   ;
+}
+.Summary .yazi{
+   color: #D8C4B6;
+   position: absolute;
+   top: 45px;
+   left: 10px;
+}
+.Education{
+   background-color: #4F709C;
+   width: 310px;
+   height: 200px;
+   border-radius: 15%;
+   position: relative;
+   left: 60%;
+   top: 100px;
+}
+.Education .baslik{
+   position: absolute;
+   left: 95px;
+   top: 5px;
+   color: #D8C4B6
+   ;
+}
+.Education .yazi{
+   color: #D8C4B6;
+   position: absolute;
+   top: 45px;
+   left: 10px;
+}
+.Skills{
+   background-color: #4F709C;
+   width: 310px;
+   height: 200px;
+   border-radius: 15%;
+   position: relative;
+   left: 95px;
+   top: 80px;
+}
+.Skills .baslik{
+   position: absolute;
+   left: 125px;
+   top: 5px;
+   color: #D8C4B6
+   ;
+}
+.Skills .yazi{
+   color: #D8C4B6;
+   position: absolute;
+   top: 20px;
+   left: 10px;
+}
+.Lang{
+   background-color: #4F709C;
+   width: 310px;
+   height: 200px;
+   border-radius: 15%;
+   position: relative;
+   left: 60%;
+   top: 100px;
+}
+.Lang .baslik{
+   position: absolute;
+   left: 95px;
+   top: 5px;
+   color: #D8C4B6
+   ;
+}
+.Lang .yazi{
+   color: #D8C4B6;
+   position: absolute;
+   top: 45px;
+   left: 10px;
+}
+.Contact{
+   background-color: #213555;
+   width: 100%;
+   height: 100px;
+   position: relative;
+   top: 200px;
+}
+#hhh{
+   color: #D8C4B6;
+   position: absolute;
+   left: 40px;
+}
+#bbb{
+   color: #D8C4B6;
+   position: absolute;
+   left: 40px;
+   top: 35px;
+}
+#hhh.orta{
+   color: #D8C4B6;
+   position: absolute;
+   left: 35%;
+}
+#bbb.orta{
+   color: #D8C4B6;
+   position: absolute;
+   left: 35%;
+}
+#hhh.right{
+   color: #D8C4B6;
+   position: absolute;
+   left: 62%;
+}
+#bbb.right{
+   color: #D8C4B6;
+   position: absolute;
+   left: 62%;
+}
